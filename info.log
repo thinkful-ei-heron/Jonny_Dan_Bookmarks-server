@@ -1,1 +1,149 @@
 {"message":"Unathorized request to path: /lbookmarks","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /bookmarks","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /bookmarks","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unathorized request to path: /","level":"error"}
+{"message":"Unathorized request to path: /bookmarks","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /bookmarks/2  authToken was Bearer undefined apiToken was undefined","level":"error"}
+{"message":"Unathorized request to path: /  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Unathorized request to path: /bookmarks  authToken was undefined apiToken was example-api-token","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 81715115-1e35-4d62-94d1-2daafd9f1201 created","level":"info"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 677e7c2f-eb94-4ac9-8661-6d22c10aa0f1 created","level":"info"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id bd0ae735-e559-43e0-bc63-1d47b7f9e77b created","level":"info"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 88588f98-c9f4-4a9f-8e17-1a891b6bd8c0 created","level":"info"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 1777295a-d4e3-4451-9b1d-6fcebbc2b681 created","level":"info"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Unathorized request to path: /bookmarks","level":"error"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 056a04d7-6622-4a05-8f4d-988f6e317681 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id a80d72c1-e461-41d9-909c-80f45b2aad17 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id b1781e49-d4cc-4c71-8e37-eb1a83112a4e created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 21e4d128-f10d-4587-ad0e-559bcaa91518 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 857452ea-ff51-4058-9ff4-f64fb270d479 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id cd514f4f-8e0b-4328-88e3-a663023430ae created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 53822391-13de-4b16-ba11-615a22ca4e8e created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 5b07a76b-f2d3-4f80-bf9c-390b3fa0c665 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 62219a34-caa4-4b31-9b49-d59a6ccbb60e created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 9308a246-23d2-42dc-815e-73e83035eb0b created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 535b22e8-2681-46e2-9e2d-00e70afcbffd created","level":"info"}
+{"message":"Unathorized request to path: /bookmarks/535b22e8-2681-46e2-9e2d-00e70afcbffd","level":"error"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 55bc6a95-930f-431d-99e4-f1b3b9c6e800 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 4d4a1e54-2255-4e47-aa66-f6e23e85793a created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 4f52fe58-4e15-4d86-a2fe-4c54fa96ea5e created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id 0da4b32d-86bc-428f-8024-f44dc7c209a1 created","level":"info"}
+{"message":"Missing 'title' in request body","level":"error"}
+{"message":"Missing 'url' in request body","level":"error"}
+{"message":"Missing 'rating' in request body","level":"error"}
+{"message":"Bookmark with id d34a48f2-3101-46f3-b645-04c12f5f0fea created","level":"info"}
